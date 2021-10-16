@@ -1,4 +1,4 @@
-# Helping Students Track Their Learning
+<h1 align="center"> Helping Students Track Their Learning </h1>
 
 Have you ever walked into your classroom and realized that your students had no idea what to expect? Maybe they were unsure of the requirements for a class essay or project, or didn’t really know where they were in terms of the necessary components of an activity. This can be a terrible feeling, and it’s one that our students experience all too often.
 
